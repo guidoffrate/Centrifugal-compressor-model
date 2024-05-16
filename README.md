@@ -7,7 +7,7 @@ The model is thought explicitly to allow you to:
 
 # Content
 The repository includes the following files:
-- _centrifugal_compressor.m_ simulates the compressor given some machine's geometrical specifications, including blade angles, radiuses, blade passage height, and volute and exhaust cone dimensions
+- _centrifugal_compressor.m_ simulates the compressor given some machine's geometrical specifications, including blade angles, radiuses, blade passage height, and volute and exhaust cone dimensions;
 - _compressor_validation.m_ allows you to visualize the comparison between model predictions and the often-used Eckardt's compressor experimental data, which refers to three different impeller geometries;
 - _compressor_optimisation_test.m_ runs two optimizations, a single- and a multi-objective one, allowing you to compare the results between the two approaches. This file requires the presence of the experimental datasets, included in the repositories in the .mat files named _eckardt_impeller_A/B/O.mat_;
 
