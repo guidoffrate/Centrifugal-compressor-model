@@ -16,7 +16,7 @@ The repository includes the following files:
 The explanation of the model equations and hypotheses, as well as the validation against experimental data from the literature, are reported in the paper:
 
 - Frate, G.F., Benvenuti, M., Chini, F., and Ferrari, L. (2024). _Optimal design of centrifugal compressors in small-size high-temperature Brayton heat pumps_, Proceedings of 37th International Conference on
-Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS), Rodhes, Greece, 30 June - 5 July 2024, doi: **insert doi here once published**
+Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS), Rodhes, Greece, 30 June - 5 July 2024, doi: 10.52202/077185-0031
 
 Please cite this paper if you use the compressor model in your publications!
 
