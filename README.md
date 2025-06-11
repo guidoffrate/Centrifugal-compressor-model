@@ -5,6 +5,8 @@ The model is thought explicitly to allow you to:
 - optimize the compressor geometry to simultaneously maximize the total-to-static isentropic efficiency and the total-to-static pressure ratio (multi-objective optimization);
 - generate the machine performance maps by simulating off-design operation once the geometry is fixed;
 
+A python version of the same model can be found at: https://github.com/guidoffrate/centrifugal_compressor_model_py
+
 # Content
 The repository includes the following files:
 - _centrifugal_compressor.m_ simulates the compressor given some machine's geometrical specifications, including blade angles, radiuses, blade passage height, and volute and exhaust cone dimensions;
